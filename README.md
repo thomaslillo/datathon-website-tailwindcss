@@ -3,3 +3,6 @@
 This is the main page for the Not-for-profit business set up called Datathon Analytics Events.
 
 Built with just HTML and Tailwindcss so its blazingly fast!
+
+temp url:
+https://thomaslillo.github.io/datathon-website-tailwindcss/
